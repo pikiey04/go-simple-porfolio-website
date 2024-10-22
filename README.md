@@ -1,6 +1,6 @@
 # Simple Go Web Server
 
-This tutorial demonstrates how to build a simple Go web server that serves static files and renders HTML templates for different routes, such as Home, Projects, Skills, About, and Contact pages.
+This demonstrates how to build a simple Go web server that serves static files and renders HTML templates for different routes, such as Home, Projects, Skills, About, and Contact pages.
 
 ## Prerequisites
 
